@@ -10,7 +10,7 @@ allegro:
 
 object:
   urdf_path: "objects/sphere_small.urdf"
-  base_position: [0.016, 0.087, 0.318] # (m)
+  base_position: [0.012, 0.092, 0.432] # (m)
 
   global_scaling: 0.15
 
